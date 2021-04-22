@@ -23,6 +23,7 @@ const ProductItem = () => {
                 margin:'auto 5% auto 5%',
                 textAlign:'center',
                 boxShadow: '0 0 20px #463636',
+                color: 'cadetblue',
             }}>
                 <img className="img" src={shoe.img} alt="" height={400} />
                 <h1>{shoe.name}</h1>

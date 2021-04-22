@@ -21,10 +21,9 @@ const MainRoute = () => {
                 {/* <Switch> */}
                 <Routes>
                     <Route path="/" element={<Home />} />
-                    <Route path="/about" element={<About />} />
-		            <Route path="/product/" element={<Product />} />
-                    <Route path="/product/:id" element={<ProductItem />} />
-                    
+                    <Route path="about" element={<About />} />
+		            <Route path="product" element={<Product />} />
+                    <Route path="product/:id" element={<ProductItem />} />
                 {/* </Switch> */}
                 </Routes>
             </Router>

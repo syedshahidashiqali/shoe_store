@@ -1,10 +1,12 @@
-# Getting Started with Create React App
-
+# This project is created with HTML5, CSS3, ReactJS, and react router V6
 ## You can view this project by the link mentioned below:
 ### [http://shoes-store-by-shahid.surge.sh/](http://shoes-store-by-shahid.surge.sh/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Demo:
+![Preview](./shoe-store-demo.gif)
 
+# Getting Started with Create React App
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 
 In the project directory, you can run:
